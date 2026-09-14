@@ -28,9 +28,9 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-3">যোগাযোগ</h4>
             <ul className="space-y-2 text-sm">
-              <li className="flex items-center gap-2"><Phone className="w-4 h-4 text-primary-400" /> +91 90000-00000</li>
+              <li className="flex items-center gap-2"><Phone className="w-4 h-4 text-primary-400" /> +91 8972488016</li>
               <li className="flex items-center gap-2"><Mail className="w-4 h-4 text-primary-400" /> info@sobujbazar.com</li>
-              <li className="flex items-center gap-2"><MapPin className="w-4 h-4 text-primary-400" /> মুর্শিদাবাদ, পশ্চিমবঙ্গ, ভারত</li>
+              <li className="flex items-center gap-2"><MapPin className="w-4 h-4 text-primary-400" /> গোকর্ণ, মুর্শিদাবাদ, পশ্চিমবঙ্গ, ৭৪২১৩৬</li>
             </ul>
           </div>
 
