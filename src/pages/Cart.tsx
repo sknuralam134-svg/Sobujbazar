@@ -117,11 +117,11 @@ export default function Cart() {
               </div>
               <div className="flex justify-between text-gray-600">
                 <span>ডেলিভারি ফি</span>
-                <span>₹50</span>
+                <span>₹0</span>
               </div>
               <div className="border-t border-gray-100 pt-2 flex justify-between font-bold text-gray-900">
                 <span>মোট</span>
-                <span>₹{totalPrice + 50}</span>
+                <span>₹{totalPrice}</span>
               </div>
             </div>
             <button
