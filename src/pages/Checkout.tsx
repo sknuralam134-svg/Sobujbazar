@@ -17,7 +17,7 @@ export default function Checkout() {
   const [error, setError] = useState('')
   const [success, setSuccess] = useState(false)
 
-  const deliveryFee = 50
+  const deliveryFee = 0
   const grandTotal = totalPrice + deliveryFee
 
   // Group items by vendor
